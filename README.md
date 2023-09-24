@@ -71,7 +71,8 @@ Hospital_API/
 ##  Demo :-
 
 - Git Repository link :  https://github.com/Shatarupa-Barman/Hospital_API
-- Hosted Link :
+- Hosted Link :  https://hospital-api-274y.onrender.com
+  
 
 
 
