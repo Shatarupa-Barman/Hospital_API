@@ -1,0 +1,21 @@
+{
+  "name": "hospital-api",
+  "version": "1.0.0",
+  "description": "an API for the doctors of a hospital which has been allocated by the govt for testing and quarantine + well being of COVID-19 patients",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shatarupa Barman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.0",
+    "nodemon": "^3.0.1",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1"
+  }
+}
