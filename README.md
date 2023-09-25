@@ -28,7 +28,7 @@ HospitalAPI provides a simple API for handling doctor and patient related data. 
 1 . **Register a Doctor:** `[POST]: /doctors/register`  
 2 . **Login for Doctor:** `[POST]: /doctors/login`  
 3 . **Register a patient:** `[POST]: /patients/register`  
-4 . **Create Patient report:** `[POST]: /patients/:id/  create_report`  
+4 . **Create Patient report:** `[POST]: /patients/:id/create_report`  
 5 . **Fetch All Reports of a Patient** `[GET]: /patients/:id/all_reports`  
 6 . **Fetch All Reports Based on a Status:** `[GET]: /reports/:status`  
 
